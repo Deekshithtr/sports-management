@@ -1,0 +1,78 @@
+body{
+    background-image: url(18a7610c0ba142268b312396524c1c43.jpg);
+    background-attachment: fixed;
+color:white;
+font-size:30px;
+    background-color: black;
+}
+.form1{
+margin-top:200px;;
+margin-left:40%;
+display:block;
+width:500px;
+border:1px solid white;
+padding:10px;
+}
+.form2{
+margin-top:200px;;
+margin-left:40%;
+display:block;
+width:500px;
+border:1px solid white;
+padding:10px;
+}
+h1,h2
+{
+text-align:center;
+font-size:35px;
+}
+input 
+{
+margin-bottom:10px;
+}
+.email
+{
+margin-left:90px;
+}
+.firstname
+{
+margin-left:8px;
+}
+.lastname
+{
+margin-left:12px;
+}
+.dob
+{
+margin-left:110px;
+width:240px;
+}
+.gender
+{
+margin-left:60px;
+}
+.password
+{
+margin-left:40px;
+}
+.submit
+{
+margin-left:350px;
+border-radius:20px;
+height:30px;	
+}
+.submit:hover
+{
+background-color:white;
+}
+a
+{
+    text-decoration: none;
+     margin-left: 85%;
+    color:black;
+      font-size: 30px;
+    color: white;
+}
+a:hover{
+            color: darkgray;
+        }

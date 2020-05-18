@@ -1,0 +1,48 @@
+*{
+background-color:black;
+    overflow: hidden;
+    background-image: url(Ezekiel-Elliott-e1524505033857.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:black;
+font-size:20px;
+}
+p{
+text-align:center;
+color:white;
+}
+li{
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #122;
+}
+.img-1{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:auto;
+
+}
+img{
+    margin-top:;
+       width: 90%;
+    height: 90%;
+}
+

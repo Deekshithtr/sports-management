@@ -1,0 +1,46 @@
+*{
+    background-color: black;
+    background-image: url("log.jpg");
+    color:cornsilk;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    overflow-y: hidden;
+}
+.tag14
+{
+     padding: 10px 10px;
+     display: inline-flex;
+    margin-left: 70%;
+}
+.tag11 a{
+     text-decoration: none;
+    font-size: 30px;
+}
+.tag11
+{
+    padding: 10px 10px;
+     display: inline-flex;
+    margin-left: 65%;
+}
+.tag16,.tag17,.tag18,.tag19
+{
+     padding: 10px 10px;
+    margin-left: 10px;
+}
+.tag11 a:hover{
+    color:darkgray;
+}
+.logout,.tag15,.tag10
+{
+     padding: 10px 10px;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.tag14 a{
+     text-decoration: none;
+}
+.tag14 a:hover{
+    color:darkgray;
+}
